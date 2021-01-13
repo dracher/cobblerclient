@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	cobbler "github.com/cobbler/cobblerclient"
+	cobbler "github.com/dracher/cobblerclient"
 )
 
 var config = cobbler.ClientConfig{
